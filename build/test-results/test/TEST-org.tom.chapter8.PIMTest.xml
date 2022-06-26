@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.tom.chapter8.PIMTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-09T12:37:29" hostname="Thomass-MacBook-Air.local" time="0.607">
-  <properties/>
-  <testcase name="shouldAddNewEventToCalendar()" classname="org.tom.chapter8.PIMTest" time="0.607"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

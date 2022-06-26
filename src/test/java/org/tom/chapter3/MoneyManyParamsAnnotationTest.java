@@ -13,6 +13,7 @@ public class MoneyManyParamsAnnotationTest {
 			"15, EUR", // second set of arguments
 			"50, CHF" // third set of arguments
 	})
+
 	public void constructorShouldSetAmountAndCurrency(int amount, String currency) {
 		Money money = new Money(amount, currency);
 		assertThat(money.getAmount()).isEqualTo(amount);

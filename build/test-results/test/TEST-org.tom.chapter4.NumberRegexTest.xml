@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.tom.chapter4.NumberRegexTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-06-26T01:16:05" hostname="Thomass-MacBook-Air.local" time="0.114">
+  <properties/>
+  <testcase name="[1] abc 12, " classname="org.tom.chapter4.NumberRegexTest" time="0.104"/>
+  <testcase name="[2] cdefg 345 12bb23, 345" classname="org.tom.chapter4.NumberRegexTest" time="0.002"/>
+  <testcase name="[3] cdefg 345 12bbb33 678tt, 345 678" classname="org.tom.chapter4.NumberRegexTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
